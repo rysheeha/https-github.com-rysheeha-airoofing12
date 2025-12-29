@@ -1,0 +1,8 @@
+{
+  "name": "RoofIntel Pro AI",
+  "description": "An elite AI intelligence platform for the roofing and insurance restoration industry, unifying IRC code expertise, claim handling, and homeowner education.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
